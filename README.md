@@ -37,3 +37,11 @@
 </div>
 
 ###
+
+<img align="right" height="200" src="https://media.tenor.com/JvArM7ZO5JIAAAAM/bavatogay-ricardo-milos.gif"  />
+
+###
+
+<img align="right" height="200" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.gif"  />
+
+###
