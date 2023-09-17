@@ -42,5 +42,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="39" alt="jenkins logo"  />
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22y5cddhpwrcezt4q4efwimbq)
+ 
 ###
